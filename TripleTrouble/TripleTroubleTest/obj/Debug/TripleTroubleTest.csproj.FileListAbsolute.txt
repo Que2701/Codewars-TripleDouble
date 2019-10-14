@@ -1,0 +1,17 @@
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\bin\Debug\TripleTroubleTest.dll
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\bin\Debug\TripleTroubleTest.pdb
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\bin\Debug\TripleTroubleApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\bin\Debug\TripleTroubleApp.pdb
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\bin\Debug\TripleTroubleApp.exe.config
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\obj\Debug\TripleTroubleTest.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\obj\Debug\TripleTroubleTest.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\obj\Debug\TripleTroubleTest.csproj.CopyComplete
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\obj\Debug\TripleTroubleTest.dll
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleTest\obj\Debug\TripleTroubleTest.pdb

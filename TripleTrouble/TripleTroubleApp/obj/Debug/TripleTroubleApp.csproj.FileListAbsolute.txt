@@ -1,0 +1,7 @@
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleApp\bin\Debug\TripleTroubleApp.exe.config
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleApp\bin\Debug\TripleTroubleApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleApp\bin\Debug\TripleTroubleApp.pdb
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleApp\obj\Debug\TripleTroubleApp.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleApp\obj\Debug\TripleTroubleApp.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleApp\obj\Debug\TripleTroubleApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-TripleDouble\TripleTrouble\TripleTroubleApp\obj\Debug\TripleTroubleApp.pdb
