@@ -8,58 +8,28 @@ namespace TripleTroubleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(TripleDouble(1112, 122));
+            Console.WriteLine(TripleDouble(357377966, 683260056));
         }
         public static int TripleDouble(long num1, long num2)
         {
             //code me ^^
-            int numCount = 0;
-            int checker1 = 0;
-            int checker2 = 0;
-            foreach (var outterItem in num1.ToString())
+            long triple = 0, trouble = 0;
+
+            for (int i = 0; i < num1.ToString().Length - 3; i++)
             {
-                foreach (var innerItem in num1.ToString())
-                {
-                    if (outterItem == innerItem && numCount != 3)
-                    {
-                        numCount++;
-                        if (numCount == 3)
-                            checker1 = innerItem;
-                    }
-                    else if (numCount == 3)
-                        break;
-                    else
-                        numCount = 0;
-                }
+                if (triple > 0) break;
+                triple = num1.ToString()[i] == num1.ToString()[i + 1] && num1.ToString()[i] == num1.ToString()[i + 2] ?
+                    long.Parse(char.ToString(num1.ToString()[i])) : 0;
             }
 
-            int returnValue = numCount == 3 ? 1 : 0;
-            numCount = 0;
-
-            foreach (var outterItem in num2.ToString())
+            for (int i = 0; i < num2.ToString().Length - 1; i++)
             {
-                numCount = 0;
-                foreach (var innerItem in num2.ToString())
-                {
-                    if (outterItem == innerItem && numCount != 2)
-                    {
-                        
-                        if (innerItem == checker1)
-                        {
-                            numCount++;
-                            checker2 = innerItem;
-                        }
-                    }
-                    else if (numCount == 2)
-                        break;
-                    else
-                        numCount = 0;
-                }
+                if (trouble > 0) break;
+                trouble = num2.ToString()[i] == num2.ToString()[i + 1] && long.Parse(char.ToString(num2.ToString()[i])) == triple ?
+                    1 : 0;
             }
 
-            returnValue = checker1 == checker2 ? 1 : 0;
-
-            return returnValue;
+            return (int)trouble;
         }
 
     }
